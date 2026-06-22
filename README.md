@@ -1,4 +1,4 @@
-# Web Development Project 2 - Flashcards 
+# Web Development Project 2 - Flashcards Part 2 
 
 Submitted by: Kandis Toussaint
 
@@ -41,9 +41,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[Kapture 2026-03-08 at 21 59 35](https://github.com/user-attachments/assets/4dc938dc-37e2-4288-a397-e91b7c525ee7)
+https://www.loom.com/share/f238d748665241008014a596240c4a5d
 
 [peek](https://github.com/phw/peek) for Linux. -->
 
